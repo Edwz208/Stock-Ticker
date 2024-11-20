@@ -10,6 +10,8 @@ This project is a stock ticker application that utilizes the [Finnhub API](https
 - 📈 Visualize historical chart data for stocks (day/week/month/year)
 - 🌙 Toggle between dark and light themes
 
+## [Live Demo](https://stock-ticker-plum.vercel.app/)
+
 ## Tech Stack
 
 - **React**: A JavaScript library for building user interfaces.
